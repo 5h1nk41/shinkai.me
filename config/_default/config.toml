@@ -1,7 +1,7 @@
 baseURL = "https://5h1nk41.github.io/"
 languageCode = "ja-jp"
 title = "shinkai.me"
-theme = "dolt"
+theme = "ananke"
 hasCJKLanguage = true
 preserveTaxonomyNames = true
 paginate = 10
